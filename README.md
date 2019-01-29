@@ -18,5 +18,3 @@ Build solution and publish it to the local Service Fabric Cluster. Test it from 
 </table>
 
 Enjoy!
-
-Developed by [Matjaz Bravc](https://si.linkedin.com/in/matjazbravc)
