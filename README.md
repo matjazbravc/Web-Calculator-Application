@@ -18,3 +18,8 @@ Build solution and publish it to the local Service Fabric Cluster. Test it from 
 </table>
 
 Enjoy!
+
+## Licence
+
+Licenced under [MIT](http://opensource.org/licenses/mit-license.php).
+Contact me on [LinkedIn](https://si.linkedin.com/in/matjazbravc).
